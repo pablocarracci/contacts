@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="contact_save">Salvar</string>
+    <string name="contact_delete">Excluir</string>
+    <string name="contact_name">Nome</string>
+    <string name="contact_number">Número</string>
+    <string name="contact_email">Email</string>
+    <string name="title_create_contact">Criar contato</string>
+    <string name="title_edit_contact">Editar contato</string>
+    <string name="image_content_description">Ligar ou enviar mensagem no WhatsApp</string>
+    <string name="snack_text_no_contacts">Sem contatos</string>
+</resources>

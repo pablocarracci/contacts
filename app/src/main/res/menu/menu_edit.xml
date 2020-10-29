@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.ingoox.contatos.EditActivity">
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/round_check"
+        android:orderInCategory="100"
+        android:title="@string/contact_save"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="200"
+        android:title="@string/contact_delete"
+        app:showAsAction="never"/>
+</menu>
